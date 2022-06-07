@@ -1,7 +1,5 @@
 package com.example.application.views.main;
 
-import org.springframework.web.bind.annotation.RestController;
-
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.notification.Notification;
@@ -12,7 +10,6 @@ import com.vaadin.flow.router.Route;
 
 @PageTitle("Main")
 @Route(value = "")
-@RestController
 public class MainView extends HorizontalLayout {
 
     private TextField name;

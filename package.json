@@ -258,7 +258,8 @@
     "date-fns": "$date-fns",
     "lit": "$lit",
     "chokidar": "$chokidar",
-    "lit-element": "$lit-element"
+    "lit-element": "$lit-element",
+    "line-awesome": "$line-awesome"
   },
   "vaadin": {
     "dependencies": {
